@@ -42,7 +42,7 @@ class MusicPlayer:
         pygame.mixer.init()
         
         # Define the music file path
-        self.music_file = "C:\\Users\\LAVANYA\\Downloads\\audio.mp3"
+        self.music_file = "https://github.com/lavnaya-deepthi/codeclause_texteditor/blob/main/audio.mp3"
         
         # Update file label with name of music file
         self.update_file_label()
